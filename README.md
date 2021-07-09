@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   </h2>
 </div>
 
-<img align="right" alt="ML GIF" height=250 width=350 src="https://beta.techcrunch.com/wp-content/uploads/2017/04/neural_networks_machines_like_us_gumgum1.gif"/></img>
+<img align="right" alt="ML GIF" height=250 width=450 src="https://beta.techcrunch.com/wp-content/uploads/2017/04/neural_networks_machines_like_us_gumgum1.gif"/></img>
 ### 👨🏻‍💻 &nbsp;About Me
 I'm **[Raj Parekh](https://github.com/Raj-Parekh24)**, a **computer science and engineering student**. I'm a **Final Year Student** at , Institute of Technology, Nirma University.
 
@@ -47,7 +47,7 @@ Feel free to explore my repositries and suggest me changes in it.
 <p align="center">
   <a href="https://github.com/Raj-Parekh24">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raj-Parekh24&show_icons=true&theme=dark"/><br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parekh24&theme=onedark&hide_border=true&langs_count=9&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Parekh24&theme=onedark&hide_border=true&langs_count=9&layout=compact"/>
   </a>
 </p>
 ---
