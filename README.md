@@ -46,7 +46,7 @@ Feel free to explore my repositries and suggest me changes in it.
 </div>
 <p align="center">
   <a href="https://github.com/Raj-Parekh24">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parekh24&count_private=true&theme=onedark&hide_border=true&show_icons=true&include_all_commits=true"/><br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raj-Parekh24&show_icons=true&theme=dark"/><br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parekh24&theme=onedark&hide_border=true&langs_count=9&layout=compact"/>
   </a>
 </p>
