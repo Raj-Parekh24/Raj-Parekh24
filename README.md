@@ -26,14 +26,15 @@ I'm **[Raj Parekh](https://github.com/Raj-Parekh24)**, a **computer science and 
 
 
 Feel free to explore my repositries and suggest me changes in it.
-
+- 🔭 &nbsp;I’m currently working on Computer Vision based research project.
 - 🤝 &nbsp;I’m looking to collaborate on algorithms projects, machine learning based projects and android-java based projects.
 - ✍️ &nbsp;I’m currently learning Blockchain, transformers and docker.
 - 💬 &nbsp;Ask me about machine learning and algorithmic concepts.
+- 😄 Pronouns: He/Him/His
 - 📫 How to reach me: 
 
-[<img align = "left" alt="Raj Parekh | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/raj-parekh-1a6b1b1a7/)
-
+[<img align = "center" alt="Raj Parekh | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/raj-parekh-1a6b1b1a7/)
+[<img align = "center" alt="Raj Parekh | LinkedIn" height="30px" src="https://image.flaticon.com/icons/png/512/324/324123.png"/>](18bce143@nirmauni.ac.in)
 </br>
 <hr>
 
@@ -47,7 +48,7 @@ Feel free to explore my repositries and suggest me changes in it.
 <p align="center">
   <a href="https://github.com/Raj-Parekh24">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raj-Parekh24&show_icons=true&theme=dark"/><br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Parekh24&theme=onedark&hide_border=true&langs_count=9&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Parekh24&theme=dark&hide_border=true&langs_count=9&layout=compact"/>
   </a>
 </p>
 ---
