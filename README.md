@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </div>
 
 <img align="right" alt="ML GIF" width=450 src="https://beta.techcrunch.com/wp-content/uploads/2017/04/neural_networks_machines_like_us_gumgum1.gif"/></img>
-### 👨🏻‍💻 &nbsp;About Me
-I'm **[Raj Parekh](https://github.com/Raj-Parekh24)**, a **computer science and engineering student** whoe wants to explore the field of AI in the domain of **Healthcare** and **Autonomous Systems**.  
+### 😀 &nbsp;About Me
+I'm **[Raj Parekh](https://github.com/Raj-Parekh24)**, a **computer science and engineering student** who wants to explore the field of **AI** in the domain of **Healthcare** and **Autonomous Systems**.  
 
 
 Feel free to explore my repositries and suggest me changes in it.
@@ -42,7 +42,7 @@ Feel free to explore my repositries and suggest me changes in it.
 
 <div align="center">
   <h4> 
-    🏃 Happy Coding 🏃 
+    👉 Happy Learning 👈 
   </h4>
 </div>
 <p align="center">
