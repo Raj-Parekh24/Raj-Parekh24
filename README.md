@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   </h2>
 </div>
 
-<img align="right" alt="ML GIF" height=250 width=450 src="https://beta.techcrunch.com/wp-content/uploads/2017/04/neural_networks_machines_like_us_gumgum1.gif"/></img>
+<img align="right" alt="ML GIF" width=450 src="https://beta.techcrunch.com/wp-content/uploads/2017/04/neural_networks_machines_like_us_gumgum1.gif"/></img>
 ### 👨🏻‍💻 &nbsp;About Me
 I'm **[Raj Parekh](https://github.com/Raj-Parekh24)**, a **computer science and engineering student**. I'm a **Final Year Student** at , Institute of Technology, Nirma University.
 
@@ -34,7 +34,7 @@ Feel free to explore my repositries and suggest me changes in it.
 - 📫 How to reach me: 
 
 [<img align = "center" alt="Raj Parekh | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/raj-parekh-1a6b1b1a7/)
-[<img align = "center" alt="Raj Parekh | LinkedIn" height="30px" src="https://image.flaticon.com/icons/png/512/324/324123.png"/>](18bce143@nirmauni.ac.in)
+[<img align = "center" alt="Raj Parekh | LinkedIn" height="30px" src="https://image.flaticon.com/icons/png/512/324/324123.png"/>]("mailto:18bce143@nirmauni.ac.in)
 </br>
 <hr>
 
