@@ -38,8 +38,8 @@ Feel free to explore my repositries and suggest me changes in it.
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me: 
 
-[<img align = "center" alt="Raj Parekh | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/raj-parekh-1a6b1b1a7/)
-[<img align = "center" alt="Raj Parekh | LinkedIn" height="30px" src="https://image.flaticon.com/icons/png/512/324/324123.png"/>](mailto:18bce143@nirmauni.ac.in)
+[<img align = "center" alt="Raj Parekh | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>](https://www.linkedin.com/in/raj-parekh-1a6b1b1a7/)
+[<img align = "center" alt="Raj Parekh | Mail" height="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>](mailto:rajparekhwc@gmail.com)
 </br>
 <hr>
 
